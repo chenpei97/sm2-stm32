@@ -5,6 +5,7 @@
 在有gcc的环境下，直接make
 然后自动生成可执行文件 test
 
+```
 int sm2_test()
 {
 	printf("sm2 test....\n");
@@ -77,3 +78,4 @@ int sm2_test()
 	
 	return 0;
 }
+```
